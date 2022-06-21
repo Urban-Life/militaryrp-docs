@@ -7,6 +7,9 @@ const config = {
 	// TODO:
 	url: "https://your-docusaurus-test-site.com",
 	baseUrl: "/",
+	projectName: "militaryrp-docs",
+	organizationName: "Urban-Life",
+	trailingSlash: false,
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
@@ -20,9 +23,6 @@ const config = {
 			{
 				docs: {
 					sidebarPath: require.resolve("./sidebars.js"),
-				},
-				blog: {
-					showReadingTime: true,
 				},
 				theme: {
 					customCss: require.resolve("./src/css/custom.css"),
@@ -41,7 +41,7 @@ const config = {
 			items: [
 				{
 					type: "doc",
-					docId: "intro",
+					docId: "inicio",
 					position: "left",
 					label: "Documentación",
 				},
@@ -56,7 +56,7 @@ const config = {
 					items: [
 						{
 							label: "Tutorial",
-							to: "/docs/intro",
+							to: "/docs/inicio",
 						},
 					],
 				},
