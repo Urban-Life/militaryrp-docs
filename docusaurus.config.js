@@ -4,9 +4,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
 	title: "Urban Life MilitaryRP Docs",
 	tagline: "Documentación del MilitaryRP de Urban Life",
-	// TODO:
-	url: "https://your-docusaurus-test-site.com",
-	baseUrl: "/",
+	url: "https://urban-life.github.io/militaryrp-docs/",
+	baseUrl: "/militaryrp-docs",
 	projectName: "militaryrp-docs",
 	organizationName: "Urban-Life",
 	trailingSlash: false,
