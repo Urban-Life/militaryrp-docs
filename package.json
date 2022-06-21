@@ -1,7 +1,22 @@
 {
   "name": "militaryrp-docs",
-  "version": "0.0.0",
-  "private": true,
+  "author": "javiertc",
+  "version": "0.1.0",
+  "dependencies": {
+    "@docusaurus/core": "2.0.0-beta.21",
+    "@docusaurus/preset-classic": "2.0.0-beta.21",
+    "@mdx-js/react": "^1.6.22",
+    "clsx": "^1.1.1",
+    "prism-react-renderer": "^1.3.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "2.0.0-beta.21",
+    "eslint": "^8.18.0",
+    "eslint-plugin-react": "^7.30.0",
+    "prettier": "^2.7.1"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -13,17 +28,9 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
-  "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.21",
-    "@docusaurus/preset-classic": "2.0.0-beta.21",
-    "@mdx-js/react": "^1.6.22",
-    "clsx": "^1.1.1",
-    "prism-react-renderer": "^1.3.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  },
-  "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.0.0-beta.21"
+  "engines": {
+    "node": "16.15.x",
+    "npm": "8.12.x"
   },
   "browserslist": {
     "production": [
