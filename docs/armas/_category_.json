@@ -1,0 +1,8 @@
+{
+	"label": "Armas",
+	"position": 4,
+	"link": {
+		"type": "generated-index",
+		"description": "En esta sección encontrarás toda la información necesaria para usar todas las armas del servidor."
+	}
+}
