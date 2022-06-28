@@ -1,0 +1,8 @@
+{
+	"label": "Herramientas y Armas",
+	"position": 3,
+	"link": {
+		"type": "generated-index",
+		"description": "En esta sección encontrarás toda la información necesaria para usar todas las herramientas y armas del servidor."
+	}
+}
