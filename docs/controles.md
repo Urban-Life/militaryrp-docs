@@ -53,6 +53,35 @@ Los controles mostrados son los que vienen por defecto en Garry's Mod, pero la m
 -   **Y**: Chatear.
 -   **U**: Chatear (solo con gente de tu equipo).
 
+## Tercera Persona
+
+Para usar el sistema de tercera persona tendremos que ir al menú de construcción (por defecto se abre con la **Q**) y ir a la pestaña que aparece arriba a la derecha como **Utilidades**. Una vez estemos en dicha pestaña, se nos abrirán una serie de herramientas en la cual encontraremos **Thirdperson** en la categoría **Usuario**
+Allí es donde configuraremos nuestra tercera persona para poder activarla, acomodarla a nuestro gusto, bindearla a una tecla...
+
+### Configuración
+
+En el menú de Thirdperson veremos varias opciones, aquí encontrarás la explicación de todas ellas para que puedas configurar tu tercera persona a tu gusto:
+
+-   **Enable**: Activar tercera persona
+-   **Use Head Position**: Usar la posición de la cabeza para la tercera persona
+-   **Use Sync for Default Vehicle**: Que si estamos en tercera persona al entrar a un coche también se ponga
+-   **Use Sync for Addons**: Que en otros sistemas también se sincronice la tercera persona cuando la tengamos activada
+-   **Set the Bind-key**: Tecla que queremos asignar para alternar entre primera y tercera persona
+-   **Offset X, Y, Z**: Ejes X, Y, Z para la tercera persona
+-   **Enable Aiming**: Si está deshabilitada esta opción tendremos que apuntar manualmente con la tercera persona (recomendado tener la opción activada para más comodidad)
+-   **Angle X, Y, Z**: Ángulos X, Y, Z para la tercera persona
+-   **FOV**: Campo de visión de la tercera persona
+-   **Smooth camera moving**: Movimiento suave de cámara, puede tardar unos milisegundos en llevar la camara a donde queramos apuntar, si está deshabilitado el movimiento se corresponde con el de nuestro ratón
+-   **Speed Smooth Camera**: Velocidad de la cámara suave (solo funcional si la opción anterior está habilitada)
+-   **Use custom crosshair**: Usar puntero personalizado
+-   **Use crosshair dot**: Usar un punto como puntero
+-   **Crosshair style**: Estilo del puntero personalizado
+-   **Crosshair gap scale**: Separción del puntero con respecto al centro de la pantalla
+-   **Crosshair size**: Tamaño del puntero personalizado
+-   **Crosshair color**: Color del puntero personalizado
+-   **Crosshair outline**: Activar/desactivar subrayado del puntero personalizado
+-   **Crosshair outline color**: Color del subrayado del puntero personalizado (solo funcional si la opción anterior está habilitada)
+
 ## Otros
 
 -   **Alt**: Mostrar información del personaje (vida, trabajo, dinero...).
