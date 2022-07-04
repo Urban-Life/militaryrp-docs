@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.0.0-beta.21",
-    "eslint": "^8.18.0",
+    "eslint": "^8.19.0",
     "eslint-plugin-react": "^7.30.0",
     "prettier": "^2.7.1"
   },
