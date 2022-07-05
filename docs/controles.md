@@ -50,6 +50,7 @@ Los controles mostrados son los que vienen por defecto en Garry's Mod, pero la m
 ## Comunicación
 
 -   **X**: Hablar.
+-   **H**: Cambiar intensidad de voz (susurrar/normal/gritar).
 -   **Y**: Chatear.
 -   **U**: Chatear (solo con gente de tu equipo).
 
